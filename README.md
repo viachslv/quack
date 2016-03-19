@@ -1,0 +1,2 @@
+# quack
+Diary service
